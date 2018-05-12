@@ -1,10 +1,16 @@
 _repo: A-Ride-on-Horseback-to-Florence-Through-France-and-Switzerland-Vol-2-of-2-Described-in-a-Seri__46686
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46686-h/images/cover.jpg
 creator:
   author:
     agent_name: Holmes, Augusta Macgregor
     gutenberg_agent_id: '43901'
     url: http://www.gutenberg.org/2009/agents/43901
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46686#A-Ride-on-Horseback-to-Florence-Through-France-and-Switzerland-Vol-2-of-2-Described-in-a-Seri_
 gutenberg_issued: '2014-08-25'
 gutenberg_type: Text
 identifiers:
